@@ -26,3 +26,15 @@ https://github.com/surajkarn1234/day-2.git
 https://github.com/zalan1/zoffice.git
 https://github.com/Ilina1/gcademo
 https://github.com/sugat01/demo2.git
+https://github.com/surajkarn1234/day-2.git
+https://github.com/sandhya-gyawali/demopygit
+https://github.com/Sunilsht/github
+https://github.com/Malina-Shrestha/gitdemo
+https://github.com/PMohit/CloudTest.git
+https://github.com/shreya360/gcad
+https://github.com/roshanadh/gcademo-day2
+https://github.com/pran36/test
+https://github.com/ddrshrez11/GCA-demo
+https://github.com/Kapiladhikari77/gcademo
+https://github.com/sophiya65/gcademo
+https://github.com/kultosh/Demo
